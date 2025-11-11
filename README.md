@@ -37,6 +37,11 @@ Bash shell (Linux, macOS, or Windows with WSL/Git Bash)
 
 No additional dependencies required
 
-Notes
+## Notes
 
 These exercises are for learning and practicing Bash scripting concepts.
+
+## 👨‍💻 Author
+
+Created by: Hugo Rocha
+
